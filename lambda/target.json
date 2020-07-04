@@ -1,0 +1,11 @@
+{
+  "target": [
+    {
+      "domain": "example.com",
+      "ip": "0.0.0.0",
+      "url": [
+        "https://example.com/",
+        "https://example.com/info/"
+      ]
+    }
+}
